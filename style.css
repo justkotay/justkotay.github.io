@@ -1,9 +1,9 @@
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', 'Roboto', sans-serif;
   text-align: center;
 }
 header{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', 'Poppins', 'Roboto', sans-serif;
   text-align: center;
 }
 main{
@@ -11,6 +11,6 @@ main{
   text-align: justify;
 }
 footer{
+  font-family: 'Oswald', sans-serif;
   text-align: center;
-  font-weight: 600;
 }
