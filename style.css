@@ -1,14 +1,14 @@
 body{
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
 }
 header{
   font-family: 'Oswald', sans-serif;
   text-align: center;
 }
-header #blogcast{
-  font-family: roboto, sans-serif;
-  font-size: 45px;
+main{
+  font-family: 'Poppins', 'Roboto', sans-serif;
+  text-align: center;
 }
 footer{
   text-align: center;
