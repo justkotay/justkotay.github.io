@@ -15,5 +15,7 @@ main h5{
 }
 footer{
   font-family: 'Roboto', 'Poppins', sans-serif;
-  text-align: center;
+  text-align: left;
+  font-family: 'Playfair Display', serif;
+  font-weight: 300;
 }
