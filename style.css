@@ -1,0 +1,15 @@
+body{
+  font-family: roboto, sans-serif;
+}
+header{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+header #blogcast{
+  font-family: roboto, sans-serif;
+  font-size: 45px;
+}
+footer{
+  text-align: center;
+  font-weight: 600;
+}
